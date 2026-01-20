@@ -41,10 +41,10 @@ Ensure you have Java installed on your machine.
 
 ```bash
 # Clone the repository
-git clone [https://github.com/sudeeyilmaz/Java-Text-Based-RPG.git](https://github.com/sudeeyilmaz/Java-Text-Based-RPG.git)
+git clone [https://github.com/sudeeyilmaz/OOP-Adventure-Quest.git](https://github.com/sudeeyilmaz/OOP-Adventure-Quest.git)
 
 # Navigate to the source folder
-cd Java-Text-Based-RPG/src
+cd OOP-Adventure-Quest/src
 
 # Compile the project
 javac Main.java
